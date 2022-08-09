@@ -1,0 +1,19 @@
+{
+    "name": "Gnogon #1",
+    "symbol": "GNG Sol",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DXAtXoLr1Hz8rYMTWkWimGDCkWi344HTssxagGqCPTbb",
+          "share": 100
+        }
+      ]
+    }
+  }
